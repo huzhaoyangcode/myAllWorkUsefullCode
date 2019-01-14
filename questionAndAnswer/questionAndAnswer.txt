@@ -1,0 +1,3 @@
+# Q1、怎样在ubuntu上安装notepad++
+A:https://blog.csdn.net/qq_28311921/article/details/79968848
+N:第一个步骤要按enter键
